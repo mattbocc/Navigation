@@ -18,6 +18,7 @@ Which would output:
 distance: 725 mi
 
 path:
+
 Columbia to Raleigh: 171 mi
 Raleigh to Charleston: 263 mi
 Charleston to Columbus: 125 mi
