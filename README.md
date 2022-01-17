@@ -28,6 +28,8 @@ Charleston to Columbus: 125 mi
 Columbus to WashingtonDC: 166 mi
 
 
+
+
 The same execution can be used for a DFS AND BFS by just simply changing the Algorithm name in the command line and the cities you would like to traverse to and from.
 
 If you want to use the A-Star search you must add another argument which is a heuristic text file to the command line.
