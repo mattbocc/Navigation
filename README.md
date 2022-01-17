@@ -20,9 +20,13 @@ distance: 725 mi
 path:
 
 Columbia to Raleigh: 171 mi
+
 Raleigh to Charleston: 263 mi
+
 Charleston to Columbus: 125 mi
+
 Columbus to WashingtonDC: 166 mi
+
 
 The same execution can be used for a DFS AND BFS by just simply changing the Algorithm name in the command line and the cities you would like to traverse to and from.
 
