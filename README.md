@@ -1,5 +1,5 @@
 # Navigation
-In this project I implemented four search algorithms to find paths between two locations on the American map below.
+In this project I implemented four search algorithms to find paths between two locations on the USA road map below.
 
 ![Map](Map.PNG)
 
@@ -31,4 +31,4 @@ For example:
 
 find_path.py astar input_file1.txt Columbia WashingtonDC heuristic_Frankfort.txt
 
-Where heuristic_Frankfort.txt provides somewhat arbitrary heuristics for for each city in the map.
+Where heuristic_Frankfort.txt provides somewhat arbitrary heuristics for each city in the map.
