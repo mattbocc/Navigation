@@ -3,9 +3,9 @@ In this project I implemented four search algorithms to find paths between two l
 
 ![Map](Map.PNG)
 
-The four search algorithms I implmented were a simple DFS (Depth First Search) AND BFS (Breadth First Search) as well as a UCS (Uniform Cost Search) and an A-Star Search using made up heuristics.
+The four search algorithms I implmented were a simple DFS (Depth First Search) AND BFS (Breadth First Search) as well as a UCS (Uniform Cost Search) and an A-Star Search using heuristics.
 
-You can run project by cloning this repository, then navigating to the folder and executing: 
+You can run this application by cloning this repository, then navigating to the folder and executing: 
 find_path.py "Algorithm" input_file1.txt "City1" "City2"
 
 Where find_path.py is the algorithm file I created and input_file1.txt is the map above, in text form. The map file gives paths to adjacent cities and the distances of such.
